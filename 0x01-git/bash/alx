@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "ALXis so cool"
+<<<<<<< HEAD
+echo "ALx is so cool"
+=======
+echo 'ALX is so school'
+>>>>>>> update_script
